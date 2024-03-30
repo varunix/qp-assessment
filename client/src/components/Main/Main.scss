@@ -1,0 +1,16 @@
+.main {
+    background-image: url('../../utilities/home-background.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.home-image {
+    background-image: url('https://img.freepik.com/free-vector/couple-riding-supermarket-shopping-cart_33099-179.jpg');
+    height: 26rem;
+    width: 36rem;
+    border-radius: 16%;
+    box-shadow: 10px 10px;
+}
